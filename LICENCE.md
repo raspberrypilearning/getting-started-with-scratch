@@ -1,14 +1,4 @@
-# Getting started with Scratch
-
-Getting started with Scratch on Raspberry Pi
-
-![](images/scratch-interface.png)
-
-## The Worksheet
-
-- [The Worksheet](worksheet.md)
-
-## Licence
+# Licence
 
 Unless otherwise specified, everything in this repository is covered by the following licence:
 
