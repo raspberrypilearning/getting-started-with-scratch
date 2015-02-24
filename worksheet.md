@@ -45,3 +45,7 @@ If you feel that the Scratch cat sprite does not suit your needs then you can ad
 4. The third icon will, when clicked, give you a **surprise sprite**. Click this and see what happens!
 
 ![](images/new-sprite.png)
+
+## What's next?
+- Now you know the basics of the Scratch interface, why not try using blocks to make the scratch cat sprite move?
+- Try completing the [Robot Antenna Resource](http://www.raspberrypi.org/learning/robot-antenna/) to make an LED blink.
