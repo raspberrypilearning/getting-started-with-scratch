@@ -46,6 +46,6 @@ If you feel that the Scratch cat sprite does not suit your needs then you can ad
 
 ![](images/new-sprite.png)
 
-## What's next?
+## What next?
 - Now you know the basics of the Scratch, why not try completing the [Robot Antenna Resource](http://www.raspberrypi.org/learning/robot-antenna/) to make an LED blink.
-- Or create a button using candy sweets with the [Sweet Shop Reaction Game Resource](http://www.raspberrypi.org/learning/reaction-game/)
+- You could also try creating a button using candy sweets with the [Sweet Shop Reaction Game Resource](http://www.raspberrypi.org/learning/reaction-game/)
