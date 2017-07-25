@@ -1,0 +1,24 @@
+---
+title: Getting Started With Scratch
+hero_image: images/banner.png
+description: Getting started with Scratch on Raspberry Pi
+original_url: https://raspberrypi.org/learning/getting-started-with-scratch
+theme: red
+duration: 2
+listed: false
+ingredient: false
+copyedit: true
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+interests: ''
+technologies: rpi, physical computing, python
+site_areas: ''
+steps:
+- title: Introduction
+- title: What you will need
+- title: Getting Started with Scratch
+- title: Getting started
+- title: Make the Scratch cat move
+- title: Changing the way the sprite looks
+- title: Add Sprites
+- title: What next?
+
